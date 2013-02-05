@@ -48,7 +48,7 @@ import torrent.Torrent;
 
 public class BitTorrent extends JFrame
 {
-	public final static int			WIDTH		= 720;
+	public final static int			WIDTH		= 70;
 	public final static int			HEIGHT		= 410;
 
 	public static String			address		= "127.0.0.1";
